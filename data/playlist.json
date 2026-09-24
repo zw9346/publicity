@@ -1,0 +1,6 @@
+[
+  { "type": "image", "src": "assets/images/1.jpg", "duration": 5000, "fit": "cover" },
+  { "type": "image", "src": "assets/images/2.jpg", "duration": 5000, "fit": "cover" },
+  { "type": "video", "src": "assets/videos/promo.mp4", "fit": "cover" },
+  { "type": "image", "src": "assets/images/3.jpg", "duration": 5000, "fit": "cover" }
+]
